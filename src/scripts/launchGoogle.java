@@ -9,6 +9,6 @@ public class launchGoogle {
 	public void openingBrowserWithGoogleWebsite() {
 		System.setProperty("webdriver.gecko.driver", System.getProperty("user.dir")+"\\BrowserDrivers\\geckodriver.exe");
 		WebDriver driver = new FirefoxDriver();
-		driver.get("http://www.google.com");
+		driver.get("http://www.msn.com");
 	}
 }
