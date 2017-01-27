@@ -1,0 +1,7 @@
+<suite name = "Jenkins testing suite">
+<test name = "Jenkins test">
+<classes>
+<class name = "scripts.launchGoogle"/>
+</classes>
+</test>
+</suite>
